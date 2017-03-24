@@ -1,24 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-  Name: Will Tribble
-  Student ID: 10540462
-  Email: wltribbl@go.olemiss.edu
-  Course Information: CSCI 343 - Section 01
-  Program Source File Name: main.py
-  Programming Assignment: 02
-  References: Getting rid of punctuation > http://stackoverflow.com/questions/265960/best-way-to-strip-punctuation-from-a-string-in-python
-  Program Description: this program takes political convention speeches and analyzes their sentiment score.
-  Due Date: Friday, 2/24/2017, 11:59 am
-
-  In keeping with the honor code policies of the University of Mississippi, the School of
-  Engineering, and the Department of Computer and Information Science, I affirm that I have
-  neither given nor received assistance on this programming assignment. This assignment
-  represents my individual, original effort.
-  ... My Signature is on File.
-"""
-
 # import division, just in case
 from __future__ import division
 # importing the ability to plot data graphically
